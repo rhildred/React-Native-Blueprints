@@ -1,7 +1,4 @@
 {
   "name": "carBooking",
   "displayName": "carBooking",
-  "expo": {
-    "sdkVersion": "18.0.0"
-  }
 }
