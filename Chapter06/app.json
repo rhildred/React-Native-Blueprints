@@ -1,4 +1,12 @@
 {
-  "name": "messagingApp",
-  "displayName": "messagingApp"
+  "expo": {
+    "name": "messagingApp",
+    "description": "Chapter 6 from React Native Blueprints.",
+    "slug": "messagingApp",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait"
+  }
 }

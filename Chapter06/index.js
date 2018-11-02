@@ -15,4 +15,4 @@ class MessagingApp extends React.Component {
   }
 }
 
-AppRegistry.registerComponent('messagingApp', () => MessagingApp);
+AppRegistry.registerComponent('main', () => App);
